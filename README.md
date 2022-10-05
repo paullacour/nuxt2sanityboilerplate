@@ -1,4 +1,4 @@
-# nuxt2sanityboilerplate
+# Nuxt 2 + Sanity Boilerplate
 
 ## Requirements
 `SANITY_PROJECT_ID=xxxxxxxx`
